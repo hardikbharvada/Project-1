@@ -1,0 +1,10 @@
+{
+  "best_params": {
+    "lookback": 17,
+    "num_layers": 3,
+    "hidden_size": 60,
+    "lr": 0.008425182818495414,
+    "batch_size": 16
+  },
+  "best_val_rmse": 0.0789629505761585
+}
