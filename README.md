@@ -24,14 +24,6 @@ Of course. Here is a GitHub README based on the provided research paper.
 
 ## ⚙️ Methodology
 
-[cite\_start]The forecasting framework follows a structured, multi-step process to quantify uncertainty in EU ETS carbon prices[cite: 333].
-
-\<p align="center"\>
-\<img src="[https://raw.githubusercontent.com/path/to/your/image/Figure1.png](https://www.google.com/search?q=https://raw.githubusercontent.com/path/to/your/image/Figure1.png)" alt="Methodology Flowchart" width="700"/\>
-<br>
-[cite\_start]\<em\>Flowchart of the Proposed Methodology [cite: 373]\</em\>
-\</p\>
-
 1.  **Data Collection & Preparation**:
 
       * [cite\_start]Historical European Union Allowance (EUA) carbon prices (OHLC, volume) were gathered from Investing.com for the period of Jan 4, 2021, to Aug 2, 2024[cite: 335].
