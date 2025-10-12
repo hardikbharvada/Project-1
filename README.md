@@ -112,6 +112,5 @@ Our experiments demonstrate a clear progression in performance from simple point
     python evaluate.py --model_path checkpoints/tcn_mdn_exogenous_best.pt
     ```
 
-  pages = {1-18}
 }
 ```
