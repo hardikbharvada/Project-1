@@ -1,5 +1,3 @@
-Of course. Here is a GitHub README based on the provided research paper.
-
 -----
 
 # Ensemble Deep Learning for Probabilistic Carbon Price Forecasting
