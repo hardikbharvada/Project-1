@@ -65,12 +65,7 @@ Our experiments demonstrate a clear progression in performance from simple point
       * [cite\_start]Lowest Mean Prediction Interval Width (MPIW) of **6.75**[cite: 594].
       * [cite\_start]Lowest Continuous Ranked Probability Score (CRPS) of **0.93**[cite: 594].
       * [cite\_start]Highest overall efficiency and robustness[cite: 588].
-
-\<p align="center"\>
-\<img src="[https://raw.githubusercontent.com/path/to/your/image/Figure5.png](https://www.google.com/search?q=https://raw.githubusercontent.com/path/to/your/image/Figure5.png)" alt="Consolidated Prediction Intervals" width="800"/\>
-<br>
-[cite\_start]\<em\>Consolidated 95% prediction intervals from 5 runs of the TCN+MDN Exogenous model, showing stability and consistent coverage[cite: 589, 591].\</em\>
-\</p\>
+    
 
 ## 💻 Setup and Usage
 
